@@ -14,6 +14,20 @@
 		C33D385820E15B8200C42025 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C33D385620E15B8200C42025 /* LaunchScreen.storyboard */; };
 		C33D386320E15B8200C42025 /* foodSlotTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C33D386220E15B8200C42025 /* foodSlotTests.swift */; };
 		C33D386E20E15B8200C42025 /* foodSlotUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C33D386D20E15B8200C42025 /* foodSlotUITests.swift */; };
+		C377205F20E6C7DC006EA993 /* food9.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C377205220E6C7DB006EA993 /* food9.jpg */; };
+		C377206020E6C7DC006EA993 /* food13.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C377205320E6C7DB006EA993 /* food13.jpg */; };
+		C377206120E6C7DC006EA993 /* food1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C377205420E6C7DB006EA993 /* food1.jpg */; };
+		C377206220E6C7DC006EA993 /* food3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C377205520E6C7DB006EA993 /* food3.jpg */; };
+		C377206320E6C7DC006EA993 /* food8.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C377205620E6C7DB006EA993 /* food8.jpg */; };
+		C377206420E6C7DC006EA993 /* food12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C377205720E6C7DC006EA993 /* food12.jpg */; };
+		C377206520E6C7DC006EA993 /* food2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C377205820E6C7DC006EA993 /* food2.jpg */; };
+		C377206620E6C7DC006EA993 /* food10.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C377205920E6C7DC006EA993 /* food10.jpg */; };
+		C377206720E6C7DC006EA993 /* food4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C377205A20E6C7DC006EA993 /* food4.jpg */; };
+		C377206820E6C7DC006EA993 /* food5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C377205B20E6C7DC006EA993 /* food5.jpg */; };
+		C377206920E6C7DC006EA993 /* food7.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C377205C20E6C7DC006EA993 /* food7.jpg */; };
+		C377206A20E6C7DC006EA993 /* food6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C377205D20E6C7DC006EA993 /* food6.jpg */; };
+		C377206B20E6C7DC006EA993 /* food11.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C377205E20E6C7DC006EA993 /* food11.jpg */; };
+		C377207120E6D669006EA993 /* table.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C377207020E6D669006EA993 /* table.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +61,20 @@
 		C33D386920E15B8200C42025 /* foodSlotUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = foodSlotUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C33D386D20E15B8200C42025 /* foodSlotUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = foodSlotUITests.swift; sourceTree = "<group>"; };
 		C33D386F20E15B8200C42025 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C377205220E6C7DB006EA993 /* food9.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = food9.jpg; path = ../../food/food9.jpg; sourceTree = "<group>"; };
+		C377205320E6C7DB006EA993 /* food13.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = food13.jpg; path = ../../food/food13.jpg; sourceTree = "<group>"; };
+		C377205420E6C7DB006EA993 /* food1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = food1.jpg; path = ../../food/food1.jpg; sourceTree = "<group>"; };
+		C377205520E6C7DB006EA993 /* food3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = food3.jpg; path = ../../food/food3.jpg; sourceTree = "<group>"; };
+		C377205620E6C7DB006EA993 /* food8.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = food8.jpg; path = ../../food/food8.jpg; sourceTree = "<group>"; };
+		C377205720E6C7DC006EA993 /* food12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = food12.jpg; path = ../../food/food12.jpg; sourceTree = "<group>"; };
+		C377205820E6C7DC006EA993 /* food2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = food2.jpg; path = ../../food/food2.jpg; sourceTree = "<group>"; };
+		C377205920E6C7DC006EA993 /* food10.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = food10.jpg; path = ../../food/food10.jpg; sourceTree = "<group>"; };
+		C377205A20E6C7DC006EA993 /* food4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = food4.jpg; path = ../../food/food4.jpg; sourceTree = "<group>"; };
+		C377205B20E6C7DC006EA993 /* food5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = food5.jpg; path = ../../food/food5.jpg; sourceTree = "<group>"; };
+		C377205C20E6C7DC006EA993 /* food7.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = food7.jpg; path = ../../food/food7.jpg; sourceTree = "<group>"; };
+		C377205D20E6C7DC006EA993 /* food6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = food6.jpg; path = ../../food/food6.jpg; sourceTree = "<group>"; };
+		C377205E20E6C7DC006EA993 /* food11.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = food11.jpg; path = ../../food/food11.jpg; sourceTree = "<group>"; };
+		C377207020E6D669006EA993 /* table.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = table.jpg; path = ../../food/table.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +125,20 @@
 		C33D384C20E15B8200C42025 /* foodSlot */ = {
 			isa = PBXGroup;
 			children = (
+				C377207020E6D669006EA993 /* table.jpg */,
+				C377205420E6C7DB006EA993 /* food1.jpg */,
+				C377205820E6C7DC006EA993 /* food2.jpg */,
+				C377205520E6C7DB006EA993 /* food3.jpg */,
+				C377205A20E6C7DC006EA993 /* food4.jpg */,
+				C377205B20E6C7DC006EA993 /* food5.jpg */,
+				C377205D20E6C7DC006EA993 /* food6.jpg */,
+				C377205C20E6C7DC006EA993 /* food7.jpg */,
+				C377205620E6C7DB006EA993 /* food8.jpg */,
+				C377205220E6C7DB006EA993 /* food9.jpg */,
+				C377205920E6C7DC006EA993 /* food10.jpg */,
+				C377205E20E6C7DC006EA993 /* food11.jpg */,
+				C377205720E6C7DC006EA993 /* food12.jpg */,
+				C377205320E6C7DB006EA993 /* food13.jpg */,
 				C33D384D20E15B8200C42025 /* AppDelegate.swift */,
 				C33D384F20E15B8200C42025 /* ViewController.swift */,
 				C33D385120E15B8200C42025 /* Main.storyboard */,
@@ -232,9 +274,23 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C377206720E6C7DC006EA993 /* food4.jpg in Resources */,
+				C377206320E6C7DC006EA993 /* food8.jpg in Resources */,
 				C33D385820E15B8200C42025 /* LaunchScreen.storyboard in Resources */,
+				C377206B20E6C7DC006EA993 /* food11.jpg in Resources */,
+				C377206A20E6C7DC006EA993 /* food6.jpg in Resources */,
+				C377205F20E6C7DC006EA993 /* food9.jpg in Resources */,
+				C377206620E6C7DC006EA993 /* food10.jpg in Resources */,
+				C377206220E6C7DC006EA993 /* food3.jpg in Resources */,
 				C33D385520E15B8200C42025 /* Assets.xcassets in Resources */,
+				C377207120E6D669006EA993 /* table.jpg in Resources */,
+				C377206120E6C7DC006EA993 /* food1.jpg in Resources */,
+				C377206820E6C7DC006EA993 /* food5.jpg in Resources */,
+				C377206520E6C7DC006EA993 /* food2.jpg in Resources */,
 				C33D385320E15B8200C42025 /* Main.storyboard in Resources */,
+				C377206920E6C7DC006EA993 /* food7.jpg in Resources */,
+				C377206420E6C7DC006EA993 /* food12.jpg in Resources */,
+				C377206020E6C7DC006EA993 /* food13.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -429,6 +485,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = RA9DLL2932;
 				INFOPLIST_FILE = foodSlot/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = leemi.foodSlot;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -444,6 +501,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = RA9DLL2932;
 				INFOPLIST_FILE = foodSlot/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = leemi.foodSlot;
 				PRODUCT_NAME = "$(TARGET_NAME)";
